@@ -1,1 +1,3 @@
-# xmas-music-video
+# Manchester Coder Dojo Christmas Music Video
+
+
