@@ -2,5 +2,5 @@
 
 
     samps = "c:\\music\\samples**"
-    'sample samps, "cavalry-brass-fanfare"
+    sample samps, "cavalry-brass-fanfare"
 
